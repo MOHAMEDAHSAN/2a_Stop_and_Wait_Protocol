@@ -1,6 +1,4 @@
 # EXP : 2a - STOP AND WAIT PROTOCOL
-## NAME : S MOHAMED AHSAN
-## REG NO : 212223240089
 ## AIM :
 To write a python program to perform stop and wait protocol
 ## ALGORITHM :
